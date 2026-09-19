@@ -1,0 +1,7 @@
+{
+  "goal": "Decide whether the agent needs a web search to answer 'what is 2+2'",
+  "intended_tool": "web_search",
+  "session_model": "unchanged-chat-model",
+  "diff": "no diff",
+  "test_summary": "tests not run"
+}

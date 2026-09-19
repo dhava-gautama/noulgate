@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.hermes/
+*.pem
+JEV_ALLOW_LIVE
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
